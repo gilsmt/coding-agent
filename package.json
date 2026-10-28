@@ -1,0 +1,7 @@
+{
+  "name": "minimal-agent",
+  "version": "0.0.0",
+  "dependencies": {
+    "openai": "^7.43.0"
+  }
+}
