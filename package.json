@@ -1,7 +1,7 @@
 {
-  "name": "minimal-agent",
-  "version": "0.0.0",
-  "dependencies": {
-    "openai": "^7.43.0"
-  }
+    "name": "coding-agent",
+    "version": "0.0.0",
+    "dependencies": {
+        "openai": "^7.53.0"
+    }
 }
