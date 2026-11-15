@@ -30,7 +30,7 @@ See [SPEC.md](SPEC.md)
 [ ] Secure Sandboxing (filesystem, shell, repo, builds, tests...)
 [ ] (Cloud) Orchestration
 
-This kind of system can also be adapted and scaled to create fleets for agentic software factories, as seen in [openai/symphony](https://github.com/openai/symphony)
+This kind of system can also be adapted and scaled to create fleets for agentic software factories, as seen in [openai/symphony](https://github.com/openai/symphony).
 
 Good design is iterative.
 
