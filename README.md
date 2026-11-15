@@ -50,3 +50,7 @@ Good design is iterative.
 - [lilianweng.github.io/posts/2026-07-04-harness](https://lilianweng.github.io/posts/2026-07-04-harness)
 - [unify.ai/blog/the-harness-is-not-enough](https://unify.ai/blog/the-harness-is-not-enough)
 - [www.seangoedecke.com/llms-are-terrible-at-designing-ai-systems](https://www.seangoedecke.com/llms-are-terrible-at-designing-ai-systems)
+
+## License
+
+Licensed under the MIT License - see the [LICENSE file](LICENSE) for details.
