@@ -30,23 +30,23 @@ See [SPEC.md](SPEC.md)
 [ ] Secure Sandboxing (filesystem, shell, repo, builds, tests...)
 [ ] (Cloud) Orchestration
 
-This kind of system can also be adapted and scaled to create fleets for agentic software factories, as seen in [https://github.com/openai/symphony](https://github.com/openai/symphony)
+This kind of system can also be adapted and scaled to create fleets for agentic software factories, as seen in [openai/symphony](https://github.com/openai/symphony)
 
 Good design is iterative.
 
 ## References
 
-- [https://github.com/openai/codex](https://github.com/openai/codex)
-- [https://github.com/anthropics/claude-code](https://github.com/anthropics/claude-code)
-- [https://github.com/anomalyco/opencode](https://github.com/anomalyco/opencode)
-- [https://github.com/earendil-works/pi](https://github.com/earendil-works/pi)
-- [https://github.com/vercel-labs/fx](https://github.com/vercel-labs/fx)
+- [github.com/openai/codex](https://github.com/openai/codex)
+- [github.com/anthropics/claude-code](https://github.com/anthropics/claude-code)
+- [github.com/anomalyco/opencode](https://github.com/anomalyco/opencode)
+- [github.com/earendil-works/pi](https://github.com/earendil-works/pi)
+- [github.com/vercel-labs/fx](https://github.com/vercel-labs/fx)
 
 ## Related
 
-- [https://github.com/alexeygrigorev/ai-engineering-field-guide](https://github.com/alexeygrigorev/ai-engineering-field-guide)
-- [https://openai.com/index/harness-engineering](https://openai.com/index/harness-engineering)
-- [https://martinfowler.com/articles/harness-engineering.html](https://martinfowler.com/articles/harness-engineering.html)
-- [https://lilianweng.github.io/posts/2026-07-04-harness](https://lilianweng.github.io/posts/2026-07-04-harness)
-- [https://unify.ai/blog/the-harness-is-not-enough](https://unify.ai/blog/the-harness-is-not-enough)
-- [https://www.seangoedecke.com/llms-are-terrible-at-designing-ai-systems](https://www.seangoedecke.com/llms-are-terrible-at-designing-ai-systems)
+- [github.com/alexeygrigorev/ai-engineering-field-guide](https://github.com/alexeygrigorev/ai-engineering-field-guide)
+- [openai.com/index/harness-engineering](https://openai.com/index/harness-engineering)
+- [martinfowler.com/articles/harness-engineering.html](https://martinfowler.com/articles/harness-engineering.html)
+- [lilianweng.github.io/posts/2026-07-04-harness](https://lilianweng.github.io/posts/2026-07-04-harness)
+- [unify.ai/blog/the-harness-is-not-enough](https://unify.ai/blog/the-harness-is-not-enough)
+- [www.seangoedecke.com/llms-are-terrible-at-designing-ai-systems](https://www.seangoedecke.com/llms-are-terrible-at-designing-ai-systems)
